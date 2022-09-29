@@ -1,0 +1,36 @@
+{
+    "user": [
+        {
+            "name": "Rahul",
+            "location": "Hyderabad",
+            "likes": 47,
+            "description": "Sample Description for Post",
+            "PostImage": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=600",
+            "date": "10/06/2022"
+        },
+        {
+            "name": "Ajay Khare",
+            "location": "kurduwadi",
+            "likes": 52,
+            "description": "my insta post",
+            "PostImage": "https://images.pexels.com/photos/50594/sea-bay-waterfront-beach-50594.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "date": "today"
+        },
+        {
+            "name": "Sudhir",
+            "location": "pune",
+            "likes": 107,
+            "description": "my insta post",
+            "PostImage": "https://images.pexels.com/photos/36762/scarlet-honeyeater-bird-red-feathers.jpg?auto=compress&cs=tinysrgb&w=600",
+            "date": "today"
+        },
+        {
+            "name": "Kushal",
+            "location": "telangana",
+            "likes": 87,
+            "description": "my insta post",
+            "PostImage": "https://images.pexels.com/photos/38537/woodland-road-falling-leaf-natural-38537.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "date": "today"
+        }
+    ]
+}
