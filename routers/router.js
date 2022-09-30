@@ -179,4 +179,8 @@ router.post("/like", async (req, res) => {
     res.json({ message: "success", updatedData })
 })
 
+router.get("*", validateToken, (req, res) => {
+    res.redirect("/feeds")
+})
+
 module.exports = router;
